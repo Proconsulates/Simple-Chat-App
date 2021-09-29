@@ -2,7 +2,7 @@
 I use Flask to make a simple chat app!
 
 ## Technologies
-> SocketIO <b/r>
+> SocketIO <br/>
 > Python <br/>
 > Flask <br/>
 > HTML
